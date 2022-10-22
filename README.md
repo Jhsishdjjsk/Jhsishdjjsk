@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Jhsishdjjsk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 مرحبا, انا الجزار
+- 👀 أنا مهتم ب ...
+- 🌱 أنا أتعلم حاليًا ...
+- 💞️ أنا أتطلع للتعاون في ...
+- 📫 كيف تصل إلي ...
 
 <!---
-Jhsishdjjsk/Jhsishdjjsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+الجزار هو مستودع ✨ خاص لأن `README.md` (هذا الملف) يظهر في ملفك الشخصي على جيتهاب.
+يمكنك النقر فوق الارتباط معاينة لإلقاء نظرة على تغييراتك.
 --->
