@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1><b><code>Img</code></b></h1>
-Display Images in your terminal with python
+مرحبا انا المطور المصري الجزار الوزير❤️
  
  <br>
 <img src="https://i.imgur.com/O1zIgca.png" height="150">
