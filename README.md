@@ -1,6 +1,6 @@
 
 
-![My card name](https://cardivo.vercel.app/api?name=ELGAZAR_ALWAZER&description=هاي,%20مرحبا%20بك%20في%20بروفايلي%20❤&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=a_b_d_a_l_l_a_h_&github=ELGAZAR&twitter=&ELGAZAR_00=leaf&colorPattern=%23eaeaea)
+https://i.imgur.com/O1zIgca.png
 
 <h1 align="center">مرحبا 👋, انا الجزار</h1>
 
