@@ -1,6 +1,12 @@
 
 
-https://i.imgur.com/O1zIgca.png
+<div align="center">
+<h1><b><code>Img</code></b></h1>
+Display Images in your terminal with python
+ 
+ <br>
+<img src="https://i.imgur.com/O1zIgca.png" height="150">
+
 
 <h1 align="center">مرحبا 👋, انا الجزار</h1>
 
